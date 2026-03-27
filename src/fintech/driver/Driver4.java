@@ -13,7 +13,7 @@ public class Driver4 {
     protected int id;
     protected String username;
     protected double amount;
-    protected String timestamp;
+    protected String times
     protected String description;
 
     public Transaction(int id, String username, double amount, String timestamp, String description) {
