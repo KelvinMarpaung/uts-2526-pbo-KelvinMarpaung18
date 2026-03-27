@@ -1,14 +1,24 @@
-package academic.driver;
+package fintech.driver;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 /**
- * @author NIM Nama
- * @author NIM Nama
+ * @author 12S24018 Kelvin yohanes putra
+ 
  */
 public class Driver3 {
 
     public static void main(String[] _args) {
 
-        // codes
+        public class NegativeBalanceException extends Exception {
+
+    public NegativeBalanceException(String message) {
+        super(message);
+    }
+
+}
 
     }
 
